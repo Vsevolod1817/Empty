@@ -1,7 +1,11 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
 int main() {
-    cout<<"sss";
+
+    string a;
+    cin >> a;
+    cout<<"sss"<<a;
 }
