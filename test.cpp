@@ -1,11 +1,9 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
-
 int main() {
 
     string a;
-    cin >> a;
-    cout<<"sss"<<a;
+    std::cin >> a;
+    std::cout<<"sss";
 }
